@@ -1,0 +1,1 @@
+This service is a server that converts RPC (Remote Procedure Call) program numbers into universal network port addresses. When an RPC-based service starts, it registers its address and program number with RPCBind. RPC is a protocol that one program can use to request a service from a program located on another computer on a network. RPCBind usually runs on port 111.

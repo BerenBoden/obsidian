@@ -1,0 +1,7 @@
+[Hero Patterns](https://www.heropatterns.com/)
+[Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/)
+[Transparent Textures](https://www.transparenttextures.com/)
+[Patternify](http://www.patternify.com/)
+[PatternJar](https://patternjar.com/)
+[Patternico](https://patternico.com/)
+[The Pattern Library](http://thepatternlibrary.com/)

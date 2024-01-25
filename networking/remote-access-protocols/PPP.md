@@ -1,0 +1,1 @@
+Point-to-Point Protocol (PPP) serves as a widely accepted standard for transferring data across serial connections. It's the go-to protocol for Internet Service Providers for facilitating network access to individual computers.

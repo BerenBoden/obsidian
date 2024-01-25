@@ -1,0 +1,2 @@
+##### ***What is SSTP?***
+SSTP (Secure Socket Tunneling Protocol) generally runs on TCP port 443, like SSL. It operates at the Application layer of the OSI model. SSTP is often used for remote access VPNs and is particularly useful for traversing firewalls, as it uses the same port as HTTPS traffic, making it hard to block. It encapsulates PPP traffic over an SSL channel, providing a secure way to transport data.

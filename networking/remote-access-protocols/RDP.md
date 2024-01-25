@@ -1,0 +1,2 @@
+##### ***What is RDP?*** 
+Remote Desktop Protocol is a remote management software that operates over TCP port 3389 and allows remote access to a device. Upon connection, users see a terminal window that mimics the interface of Windows or another OS, allowing them to access remote files and applications. It offers 128-bit encryption using the RC4 encryption algorithm and also supports TLS 1.0.
