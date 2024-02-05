@@ -1,0 +1,20 @@
+- What is Ohm's Law and how do you apply it in practical scenarios?
+- Can you explain the difference between AC and DC currents?
+- How do inductance and capacitance affect electrical circuits?
+- What are the principles of electromagnetic induction?
+- How do you calculate power in an electrical circuit?
+- What is the significance of Kirchhoff's laws in electrical engineering?
+- How do transformers work, and what are their applications?
+- Can you explain the concept of electrical impedance?
+- What are the types of electrical loads, and how do they impact circuit design?
+- How is phase difference measured in AC circuits, and why is it important?
+- What common mistakes should I avoid?
+- How do you troubleshoot electrical issues?
+- Can you explain this wiring technique?
+- What safety practices are most important?
+- How do I read and interpret electrical blueprints?
+- How do I stay updated on electrical codes?
+- How is wiring in older buildings different from newer ones?
+- Which tools should I invest in first?
+- How do you handle difficult clients?
+- Can you share tips on energy efficiency and smart home technologies?

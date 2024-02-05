@@ -1,4 +1,4 @@
-**Enable VNC connection for machine**
+### *Enable VNC connection for machine*
 Listens on port 5000, edit the `/etc/pve/qemu-server/<vm-id>.conf` file and choose a number of the 10s value, this will listen on 5920:
 ```
 args: -vnc 0.0.0.0:20
@@ -12,7 +12,7 @@ Then stop and start the VM directly from proxmox
 
 `resize2fs /dev/mapper/pve-root`
 
-**Proxmox server is having trouble resolving domain names (e.g., '[ftp.nz.debian.org](http://ftp.nz.debian.org)') to their corresponding IP addresses. This can be due to a misconfigured DNS resolver or a network issue:**
+### *Proxmox server is having trouble resolving domain names (e.g., '[ftp.nz.debian.org](http://ftp.nz.debian.org)') to their corresponding IP addresses. This can be due to a misconfigured DNS resolver or a network issue:*
 
 To fix the issue, follow these steps:
 
@@ -56,3 +56,17 @@ Save the changes and exit the text editor.
 Create a new file called pve-no-subscription.list in the /etc/apt/sources.list.d/ directory: nano /etc/apt/sources.list.d/pve-no-subscription.list Add the following line to the new file: `deb <http://download.proxmox.com/debian/pve> bullseye pve-no-subscription` Save the changes and exit the text editor.
 
 Update your package lists: `apt update`
+### *Proxmox not connecting to network error*
+Execute `systemctl status networking.service`, which outputs:  
+```
+error: vmbr0: bridge port enp46s0 does not exists
+```
+
+So what happened was somehow, something changed the number of this network interface. Execute `ip addr` showed me the correct number which is now: enp45s0 (notice the 45 instead of 46). Then I manually edit: `nano /etc/network/interfaces`.  
+
+This allowed me to both change the iface interface to enp45s0 as well as the bridge-ports line to the same enp45s0.  
+Finally I executed:  
+```
+ifreload -a
+```
+### *GPU pass through*

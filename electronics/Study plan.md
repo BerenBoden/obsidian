@@ -1,0 +1,237 @@
+### *DC fundamentals*
+- **Basic Concepts**
+    - Electricity fundamentals
+    - Electric charge and current
+    - Voltage (potential difference)
+    - Resistance and conductance
+    - Power and energy
+- **Ohm's Law**
+    - Relationship between voltage, current, and resistance
+    - Calculations involving Ohm's Law
+- **Electrical Circuits**
+    - Series circuits
+    - Parallel circuits
+    - Series-parallel circuits
+    - Kirchhoff's laws (current and voltage laws)
+- **Electrical Components**
+    - Resistors
+    - Capacitors
+    - Inductors (primarily in the context of their DC resistance)
+    - Diodes (understanding forward and reverse bias)
+- **Multimeter Use**
+    - Measuring voltage, current, and resistance
+    - Continuity testing
+- **Power**
+    - Power calculation in DC circuits
+    - Energy consumption
+- **Magnetism and Electromagnetism**
+    - Magnetic fields and forces
+    - Electromagnetic induction (as it applies to DC systems)
+- **Batteries and DC Power Supplies**
+    - Types of batteries
+    - Battery configurations (series and parallel)
+    - Basic principles of DC power supplies
+- **Circuit Analysis Techniques**
+    - Simplifying complex circuits using series and parallel rules
+    - Voltage division and current division principles
+    - Thevenin’s and Norton’s Theorems (as applied to DC)
+- **Safety**
+    - Basic electrical safety principles
+    - Safe handling of batteries and DC power
+- **Applications of DC**
+    - Basic DC motor principles
+    - LED circuits
+    - Solar power systems (basics of photovoltaic cells)
+- **Tools and Measurement Techniques**
+    - Using oscilloscopes for DC signal analysis (basic)
+    - Using function generators (understanding DC offset)
+### *AC Fundamentals*
+- **Basic Concepts of AC**
+    - Introduction to alternating current (AC) vs. direct current (DC)
+    - The sine wave: frequency, amplitude, phase
+    - Peak, peak-to-peak, RMS (root mean square) values
+- **AC Circuit Components**
+    - Resistors in AC circuits
+    - Capacitors in AC circuits: capacitive reactance
+    - Inductors in AC circuits: inductive reactance
+    - The concept of impedance in AC circuits
+- **AC Power**
+    - Power calculation in AC circuits
+    - Power factor and its significance
+    - Real, reactive, and apparent power
+- **Ohm's Law in AC Circuits**
+    - Application of Ohm’s Law to AC circuits
+    - Calculations involving impedance
+- **AC Circuit Analysis**
+    - Series and parallel AC circuits
+    - Series-parallel AC circuits
+    - Kirchhoff's voltage and current laws in AC circuits
+    - Resonance in AC circuits
+    - Filters (low-pass, high-pass, band-pass, and band-stop)
+- **AC Waveforms**
+    - Understanding different AC waveforms: sine, square, triangle, sawtooth
+    - Harmonics and their effects on AC systems
+- **Transformers**
+    - Principles of operation
+    - Step-up and step-down transformers
+    - Transformer efficiency and losses
+- **AC Generation**
+    - How AC is generated: alternators
+    - The principle of electromagnetic induction
+- **Three-Phase AC Systems**
+    - Introduction to three-phase AC
+    - Advantages of three-phase systems
+    - Star (Y) and Delta (Δ) configurations
+    - Calculating voltages and currents in three-phase systems
+- **AC Motors and Drives**
+    - Basic principles of AC motors
+    - Types of AC motors: induction motors, synchronous motors
+    - Speed control of AC motors
+- **Power Distribution**
+    - AC power transmission and distribution systems
+    - Power grid components: substations, transmission lines
+- **AC Measurement and Instrumentation**
+    - Measuring AC voltage, current, power, frequency
+    - Use of oscilloscopes in AC analysis
+- **Safety in AC Systems**
+    - Electrical safety for AC systems
+    - Grounding and protection devices in AC installations
+- **Applications of AC**
+    - Domestic and industrial applications
+    - AC in renewable energy systems (e.g., wind turbines, inverters for solar panels)
+### *Cables, Fittings and Testing*
+- **Standards and Regulations**
+    - **NZS 3000:** Often referred to as the "New Zealand Wiring Rules," this standard outlines the requirements for the design, construction, and verification of electrical installations.
+    - **WorkSafe New Zealand:** Provides guidelines and safety standards for working with electrical equipment and installations.
+- **Cables**
+    - **Types of Cables:** Understanding different cable types used in residential, commercial, and industrial installations, such as TPS (Tough Plastic Sheathed), XLPE (Cross-Linked Polyethylene), and armoured cables.
+    - **Cable Selection:** Criteria include current carrying capacity, voltage rating, environmental conditions (moisture, temperature, UV exposure), mechanical protection needs, and compliance with NZS 3000.
+    - **Colour Coding:** New Zealand follows specific colour coding for wiring to indicate the purpose of each wire (e.g., green/yellow for earth, blue for neutral, brown for live).
+    - **Cable Installation:** Guidelines cover conduit and trunking systems, cable support and protection, segregation of cables (e.g., power and data), and minimum bending radii.
+- **Fittings and Fixtures**
+    - **Types and Selection:** Covers light fixtures, sockets, switches, and other electrical fittings, focusing on their compatibility with the installation environment and load requirements.
+    - **Earthing and Bonding:** Essential for safety, reducing the risk of electric shock by ensuring a path for fault currents to earth.
+    - **IP Rating:** Importance of selecting fittings with appropriate Ingress Protection (IP) ratings for different environments, especially in areas exposed to moisture or dust.
+- **Testing and Verification**
+    - **Continuity Testing:** Ensures that there are no breaks in conductors, connections are secure, and earthing systems are continuous.
+    - **Insulation Resistance Testing:** Verifies the integrity of insulation around conductors to prevent electrical leaks and short circuits.
+    - **Polarity Testing:** Confirms that connections are made correctly in relation to the flow of electricity.
+    - **Earth Fault Loop Impedance Testing:** Ensures the earth system will safely carry fault current to trip the protective device in a fault condition.
+    - **RCD Testing:** Residual Current Devices (RCDs) are tested to ensure they trip within the required time to prevent electric shock.
+- **Documentation and Compliance**
+    - **Electrical Safety Certificates (ESC):** Required for all electrical work to certify it complies with NZ regulations.
+    - **Certificates of Compliance (CoC):** Demonstrate that the electrical work meets the New Zealand standards.
+- **Ongoing Education**
+    - **Learning and Adaptation:** Continuous education on updates to the standards, new technologies, and best practices in electrical installations.
+### *Supply system fundamentals*
+- **Generation of Electrical Power**
+    - Types of power plants (thermal, hydroelectric, nuclear, solar, wind)
+    - Basics of electricity generation
+    - Grid interconnections and distributed generation
+- **Transmission of Electrical Power**
+    - High-voltage transmission systems
+    - Overhead vs. underground transmission lines
+    - Transformers and substations
+    - Power system protection and control
+- **Distribution of Electrical Power**
+    - Distribution network configurations (radial, ring, meshed)
+    - Voltage levels and step-down transformers
+    - Distribution panels and switchgears
+    - Power quality issues
+- **Electrical Safety and Standards**
+    - Grounding systems
+    - Protection devices (fuses, circuit breakers, RCDs)
+    - National and international electrical standards and codes
+- **Metering and Billing**
+    - Types of meters (analog, digital, smart meters)
+    - Tariffs and billing methods for electrical energy
+- **Energy Efficiency and Conservation**
+    - Energy auditing
+    - Demand-side management
+    - Renewable energy integration
+- **Power Electronics in Supply Systems**
+    - Converters, inverters, and rectifiers
+    - Applications of power electronics in renewable energy systems, battery storage, and electric vehicles
+- **Smart Grids and Future Grids**
+    - Concepts and technologies behind smart grids
+    - Grid automation and real-time monitoring
+    - Impact of electric vehicles and energy storage on the grid
+- **Regulatory and Economic Aspects**
+    - Electricity market structures and deregulation
+    - Policy and regulation impacting electrical supply systems
+    - Environmental considerations
+- **Substations**
+    - Types of substations (transmission, distribution, switching)
+    - Substation components (switches, circuit breakers, transformers, protective relays)
+- **Three-Phase AC Systems**
+    - Introduction to three-phase AC
+    - Advantages of three-phase systems
+    - Star (Y) and Delta (Δ) configurations
+    - Calculating voltages and currents in three-phase systems
+- **AC Motors and Drives**
+    - Basic principles of AC motors
+    - Types of AC motors: induction, synchronous
+    - Speed control of AC motors
+### *Protection, Plans and Circuits fundamentals*
+- **Protection**
+    - Overcurrent protection (fuses, circuit breakers)
+    - Earth fault protection (RCDs, RCBOs)
+    - Overvoltage protection (surge protectors, lightning arresters)
+    - Protection against short circuits and overloads
+    - Protective relaying and coordination
+- **Plans**
+    - Electrical layout plans and symbols
+    - Reading and interpreting electrical diagrams
+    - Wiring schematics and connection diagrams
+    - Distribution board layouts and planning
+    - Safety and compliance in electrical planning
+- **Circuits**
+    - Design principles for electrical circuits
+    - Circuit design for lighting, power, and control
+    - Home automation and smart circuit design
+    - Emergency and standby power systems
+    - Energy management and conservation circuits
+### *Installations*
+- **Regulatory Framework**
+    - New Zealand Electrical Code of Practice (ECP)
+    - Standards New Zealand: NZS 3000 Wiring Rules (AS/NZS 3000)
+    - WorkSafe New Zealand regulations and guidelines
+- **Safety and Compliance**
+    - Electrical safety requirements and best practices
+    - Compliance with NZ Building Code
+    - Issuing Electrical Safety Certificates (ESC) and Certificates of Compliance (CoC)
+- **Wiring Practices**
+    - Color coding of wires and cables specific to NZ
+    - Earthing and bonding requirements
+    - Cable sizing and selection according to NZS 3000
+- **Protection Devices**
+    - Installation of RCDs (Residual Current Devices) for shock protection
+    - Circuit breaker selection and installation
+    - Surge protection in residential and commercial installations
+- **Lighting Installations**
+    - Energy-efficient lighting design and installation
+    - Outdoor and security lighting regulations
+    - Emergency lighting requirements as per NZ standards
+- **Power Outlets and Switches**
+    - Placement and installation of power outlets
+    - Safety requirements for switches and outlets in wet areas
+    - Installation standards for special areas (kitchens, bathrooms, laundries)
+- **HVAC and Appliances**
+    - Electrical requirements for HVAC systems
+    - Installation practices for major appliances
+    - Energy efficiency considerations
+- **Renewable Energy Systems**
+    - Solar PV system installation and grid integration
+    - Wind energy installations in residential settings
+    - Battery storage systems and electrical safety
+- **Inspection and Testing**
+    - Routine electrical inspection procedures
+    - Testing for earth continuity, insulation resistance, and polarity
+    - RCD testing and verification
+- **Documentation and Record Keeping**
+    - Maintaining installation records and electrical plans
+    - Documentation required for inspection and compliance verification
+- **Emerging Technologies**
+    - Smart home technology installations
+    - Electric vehicle charging infrastructure
+    - Innovations in energy efficiency and sustainable installations

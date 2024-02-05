@@ -1,4 +1,5 @@
-This article will go over how to configure an automated malware analysis lab using Proxmox, Packer, Ansible, Terraform and Vault for secrets. This could be used for malware analysis, a SOC lab, performing penetration tests against Windows AD environments and Linux servers, performing penetration tests against deliberately vulnerable web applications, and much more... 
+![image](https://beren-obsidian-images.imgix.net/26974a5f76f541b7235d2a6b07e9b869.jpeg)
+This article will go over how to configure an automated home lab using Proxmox, Packer, Ansible, Terraform and Vault for secrets. This could be used for malware analysis, a SOC lab, performing penetration tests against Windows AD environments and Linux servers, performing penetration tests against deliberately vulnerable web applications, setting up AD environments, testing operating systems, and much more.
 ## Contents
 - [[#Introduction to the home lab project]]
 - [[#Configuring PfSense router with two interfaces (isolation & infrastructure)]]

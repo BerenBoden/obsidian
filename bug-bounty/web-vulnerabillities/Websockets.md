@@ -1,3 +1,4 @@
+![image](https://beren-obsidian-images.imgix.net/075e8ebed08d65d132e429f615204e0b.webp)
 ### *Cross-site WebSocket hijacking (CSWH)*
 This vulnerable website has a live chat feature that uses WebSockets, which relies on a cookie with the following values: 
 ```

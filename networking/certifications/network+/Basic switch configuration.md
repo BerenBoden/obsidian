@@ -1,3 +1,4 @@
+![image](https://beren-obsidian-images.imgix.net/1aa33d230a3f9e5562e1cca3c122ea5a.jpg)
 This packet tracer scenario includes setting up a hostname and an IP address, MOTD banner, MD5 hashed passwords, and telnet access to a Cisco catalyst 2960 switch from a remote computer. This is a lab from `www.packettracernetwork.com`.
 
 I will be using a Cisco command cheat sheet to reference if I can not remember a certain command.

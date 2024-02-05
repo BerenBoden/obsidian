@@ -98,72 +98,6 @@ ARP cache poisoning or ARP spoofing is a technique used in man-in-the-middle (MI
 
 **Interception of Traffic**: Once the ARP caches are poisoned, when one victim tries to communicate with the other, the data packets are sent to the attacker's MAC address instead of the intended recipient. The attacker can then intercept, read, or modify the data before passing it along to the actual destination, effectively positioning themselves in the middle of the conversation without either victim realizing it.
 ### *Questions*
-1. A is a group of computers connected on the Internet for the purpose of performing a task in a coordinated manner. *Botnet*
-2. How often should you update your virus definitions in your antivirus software? *regularly or automatically*
-3. What type of attack injects a command that overflows the amount of memory allocated and executes commands that would not normally be allowed? *Buffer overflow*
-4. attacks are those that increase the effectiveness of a DoS attack. *Amplified*
-5. What kind of tool could a hacker use to intercept traffic on your network? *Ettercap / wireshark*
-6. What type of virus uses Microsoft’s Visual Basic scripting language? *?*
-7. What is it called when someone intercepts traffic on your network that’s intended for a
-different destination computer? *MiTM*
-8. If someone installed a wireless router on your network without your knowledge, the WAP would be called *Rouge Access Point*
-9. What software application can automatically ensure that your Windows-based computers have the most current security patches? *Windows Automatic Updates*
-10. The two different types of virus scans are *file hashing & *
-
-1. D
-2. C
-3. A
-4. A
-5. .
-6. .
-7. C
-8. B
-9. A
-10. A
-11. D
-12. C
-13. A
-14. D
-15. B
-16. C
-17. A
-18. D
-19. A
-20. D
-
-### *Questions after reading*
-### *Questions*
-1. __ is a group of computers connected on the Internet for the purpose of performing a task in a coordinated manner. *Botnet*
-2. How often should you update your virus definitions in your antivirus software? 
-3. What type of attack injects a command that overflows the amount of memory allocated and executes commands that would not normally be allowed? 
-4. attacks are those that increase the effectiveness of a DoS attack. 
-5. What kind of tool could a hacker use to intercept traffic on your network?
-6. What type of virus uses Microsoft’s Visual Basic scripting language? 7. What is it called when someone intercepts traffic on your network that’s intended for a
-different destination computer? 
-8. If someone installed a wireless router on your network without your knowledge, the WAP would be called 
-9. What software application can automatically ensure that your Windows-based computers have the most current security patches? 
-10. The two different types of virus scans are 
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
-9. 
-10. 
-11. 
-12. 
-13. 
-14. 
-15. 
-16. 
-17. 
-18. 
-19. 
-
 Shoulder surfing - survey environment before entering data  X
 Piggybacking - security  X
 Tailgating - vetibules/man traps ✅
@@ -229,4 +163,3 @@ purpose of receiving data meant for that system? ✅
 10/10
 ### *Resources*
 [Demo of a simple DNS amplification attack](https://www.youtube.com/@MalignoAlonso)
-
