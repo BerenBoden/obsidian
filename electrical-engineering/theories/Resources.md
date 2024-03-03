@@ -3,10 +3,24 @@ http://w140.com/tekwiki/wiki/Main_Page
 https://www.hifiengine.com/
 https://bama.edebris.com/manuals/tek/
 [digikey](https://www.digikey.com/reference-designs/en)
+https://www.electronics-lab.com/
+http://discovercircuits.com/
 [OSU Computer Science](https://github.com/ossu/computer-science)
 [OSU Electrical Engineering](https://github.com/Artoriuz/OSEE?tab=readme-ov-file)
 ### *Components*
 https://surplustronics.co.nz/
+https://epartners.co.nz/
+https://folders.co.nz/
+### *Youtube channels*
+https://www.youtube.com/@ElectricalCodeCoach
+https://www.youtube.com/@SparkyChannel
+https://www.youtube.com/@EngineeringMindset
+https://www.youtube.com/@Electronzap
+https://www.youtube.com/@IMSAIGuy
+https://www.youtube.com/@MENZTV
+https://www.youtube.com/@ElectricianU
+https://www.youtube.com/@MasterTheNEC
+https://www.youtube.com/@MikeHoltNEC
 ### *Electronic tools*
 [scientific calculator](https://www.desmos.com/scientific)
 [circuit simulator](https://www.multisim.com/)
@@ -18,6 +32,8 @@ https://surplustronics.co.nz/
 [multimeter](https://www.jaycar.co.nz/economy-catiii-multimeter-with-non-contact-voltage-sensor/p/QM1527)
 [soldering station](https://www.synergyelectronics.co.nz/store/hakko-fx-888d-soldering-station)
 [breadboard](https://www.jaycar.co.nz/arduino-compatible-breadboard-with-400-tie-points/p/PB8820?pos=8&queryId=3757e19c9b45b355a7b148ef2a34e688&sort=relevance&searchText=breadboard)
+### *Online resources*
+https://www.khanacademy.org/science/physics/circuits-topic
 ### *Tertiary educations*
 https://etec.ac.nz/electrical-courses/
 https://www.openpolytechnic.ac.nz/qualifications-and-courses/de5304-electrical-fundamentals-2/
@@ -36,7 +52,12 @@ https://www.toiohomai.ac.nz/study/subject/electrotechnology-and-electrical
 [wire strippers](https://techbits.nz/product-1601/#product-reviews)
 [knife](https://www.bunnings.co.nz/craftright-utility-folding-knife_p0027742)
 [drill set](https://www.bunnings.co.nz/makita-2-piece-18v-5-0ah-brushless-kit_p0336001) $700
-[dust pan](https://www.mitre10.co.nz/shop/raven-brush-&-pan-set/p/324000)
-[broom](https://www.mitre10.co.nz/shop/browns-jf24-platform-broom-complete/p/325364)
-
-$840
+### *Need these books*
+Conduit Bending and Fabrication - https://amzn.to/3IMTEhl
+Electrical Systems Based on the 2020 NEC - https://amzn.to/3HgTtdE
+Applied Grounding & Bonding - Based on the 2017 National Electrical Code
+Electrical black book AUS/NZ
+Applied Codeology - https://amzn.to/3gatXuJ
+Fundamentals of Motor Control - https://amzn.to/3KULC7Y
+Tom Henry’s Keyword Index 2020 - https://amzn.to/3udWGHs
+2020 Journeyman Electrician Exam Questions & Answers - https://amzn.to/3h8RJrL

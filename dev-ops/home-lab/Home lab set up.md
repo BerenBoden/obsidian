@@ -13,6 +13,7 @@ In order to get started, we need to set up a PfSense router, a Windows Server, a
 
 The jump-box will be used to run all of the Ansible, Terraform, and Packer scripts from. It will also be used to connect to the other machines in our cloud through RDP. 
 ## Configuring PfSense router with two interfaces (isolation & internet)
+### Allow remote access to the GUI
 
 ## Using Packer to automate template creation
 Packer is going to be automating the provisioning of .iso images and creating a template after the provisioning is finished. The reason for this is to ensure that the OS is functioning correctly, the created template verifies that every feature that you have defined in the .pkr.hcl file is working on the newly created OS. Using Packer will save a lot of time if you ever need to quickly create a template in Proxmox from an .iso, you can edit your machines hardware from the .pkr.hcl file rather than doing so manually.
@@ -103,3 +104,10 @@ network:
 To get quickly going with a SIEM server, Wazuh provides a one liner installation command to get up and running.
 	`curl -sO https://packages.wazuh.com/4.5/wazuh-install.sh && sudo bash ./wazuh-install.sh -a`
 ## Configuring a DHCP server for the isolation network
+
+
+
+WGG
+WOB
+WBO
+W

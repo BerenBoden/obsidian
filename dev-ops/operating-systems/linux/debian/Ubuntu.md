@@ -119,6 +119,20 @@ Finally type following in terminal:
 ```
  source .bashrc
 ```
+### *Ubuntu VM in Proxmox showing black screen with PCI-pass through*
+Create the VM without GPU pass through at first, then run these commands.
+```
+1. sudo apt-get install --reinstall ubuntu-desktop gnome-shell ubuntu-gnome-desktop unity [reinstalls all post display manager stuff]
+2. sudo apt-get install --reinstall nvidia-common
+3. sudo apt-get install xserver-xorg-video-nouveau
+4. sudo apt install nvidia-settings
+5. sudo nano /etc/default/grub
+//change GRUB_CMDLINE_LINUX_DEFAULT="quiet splash" to be GRUB_CMDLINE_LINUX_DEFAULT="quiet splash nouveau.modeset=0"
+6. sudo update-grub
+7. sudo reboot
+```
+
+Once you have setup GPU pass through for ubuntu VM on proxmox, use `sudo ubuntu-drivers autoinstall` to install the drivers.
 ### *Resizing disks, LVMs & partitioning*
 **lvextend**
 This command is used to extend the logical volume managed by LVM (Logical Volume Manager). The `-l +100%FREE` option specifies that you want to use all of the free space available in the volume group to extend this logical volume. After running this command, the logical volume will have more raw block storage, but the file system itself won't yet know how to use this new space.

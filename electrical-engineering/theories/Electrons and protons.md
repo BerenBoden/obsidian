@@ -2,3 +2,5 @@ Electrons are negatively charged and protons are positively charged. Electrons a
 
 ### *Conventional current versus real current*
 Conventional current assumes that electric current was the flow of positive charges to negative charges. Later experiments 
+### Electricity basics
+1 ampere is equal to 1 coulomb which is 6.242 x 10^18 electrons.
