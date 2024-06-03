@@ -32,6 +32,7 @@ https://www.youtube.com/@MikeHoltNEC
 [multimeter](https://www.jaycar.co.nz/economy-catiii-multimeter-with-non-contact-voltage-sensor/p/QM1527)
 [soldering station](https://www.synergyelectronics.co.nz/store/hakko-fx-888d-soldering-station)
 [breadboard](https://www.jaycar.co.nz/arduino-compatible-breadboard-with-400-tie-points/p/PB8820?pos=8&queryId=3757e19c9b45b355a7b148ef2a34e688&sort=relevance&searchText=breadboard)
+[storing components](https://www.reddit.com/r/electronics/comments/7xz1vs/tip_storing_your_electronic_components/)
 ### *Online resources*
 https://www.khanacademy.org/science/physics/circuits-topic
 ### *Tertiary educations*
